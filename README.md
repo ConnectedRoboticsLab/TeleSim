@@ -26,3 +26,6 @@ RGB-D Camera: Intel RealSense D435i<br>
 VR Headset: HTC VIVE Focus 3<br>
 Robot Arm: Ufactory Lite 6<br>
 Workstation: Intel i9-14900HX / 32 GB RAM / NVIDIA RTX 4060<br>
+
+Access our paper:
+https://arxiv.org/abs/2507.04425 
