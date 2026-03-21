@@ -1,5 +1,6 @@
 
-![telesim](https://github.com/user-attachments/assets/7ac0508a-133e-4c1e-93fe-fa78cd764a53)
+![telesim](https://github.com/user-attachments/assets/25666dde-5512-44b7-b5c5-3d38c92468cc)
+
 Overview：
 TeleSim is a comprehensive hardware-in-the-loop testbed and benchmark dataset designed to evaluate telerobotic system performance under varying network conditions. This repository contains the simulation framework and benchmark dataset for network-aware teleoperation research.<br>
 
